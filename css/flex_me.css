@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    height: 20vh;
+    background-color:green;
+    width: 100%;
+
+}
+
+.artasnav{
+    
+    display: flex;
+    height: 60vh;
+    width: 100%;
+   
+}
+
+.footer{
+    height: 20vh;
+    background-color: green;
+    width: 100%;
+}
+
+.article{
+    display: flex;
+    background-color: whitesmoke;
+    flex: 3
+}
+
+.aside{
+    display: flex;
+    background-color: yellow;
+    flex: 1
+}
+.nav{
+    display: flex;
+    background-color: blue;
+    flex: 1
+}
